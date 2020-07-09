@@ -3,9 +3,9 @@ title: Club Fire
 description: Discord server
 cover: assets/images/background.png
 logo: assets/images/logo.png
-favicon: assets/images/tabicon.png
+favicon: assets/images/demo.png
 baseurl: "/clubfire/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://adaline02.github.io" # the base hostname & protocol for your site
 
 pagination:
 
