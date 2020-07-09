@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<img src="https://raw.githubusercontent.com/Adaline02/clubfire/master/assets/images/demo.PNG">
 
 Club Fire is a cool, non-toxic, non-NSFW , MLP based community server that strives to offer just what you're looking for!
 
